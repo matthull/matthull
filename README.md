@@ -8,7 +8,6 @@ Deep background in using Rails, Postgres, and Python to build SaaS products and 
 
 - **[athanor](https://github.com/matthull/athanor)** — Multi-agent orchestration on Claude Code. Supervisor and worker agents, goals that survive dead sessions, and independent review from fresh context before anything ships. I ran it daily against a production codebase for several months; my merged-PR throughput went up substantially and the work held up in normal code review. I'm not putting a multiplier on that — ask me and I'll walk you through what I tracked. Go.
 - **[my-skills](https://github.com/matthull/my-skills)** — Claude Code skills on a plugin architecture I came up with: universal logic in the skill, project bindings and personal preferences injected as separate layers, so the same skills work across projects or teams.
-- **[egregore-mcp](https://github.com/matthull/egregore-mcp)** — MCP server for session logging, meeting bots, and Slack integration: the context my agents need that isn't in the repo. FastMCP/Python.
 
 ### Key design decisions
 
